@@ -2,4 +2,4 @@
 
 Simple FTP Server
 
-Use of C
+Use of C to recieve requests, handling, and transfering
