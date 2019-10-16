@@ -1,4 +1,4 @@
-# CS317 2018 Term Project (Educational Purpose Only)
+# CS317 2018 Term Project
 
 Simple FTP Server
 
